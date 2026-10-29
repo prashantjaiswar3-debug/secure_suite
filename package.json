@@ -14,8 +14,8 @@
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "zod": "^4.1.12",
-    "@supabase/ssr": "^0.7.0",
-    "@supabase/supabase-js": "^2.76.1"
+    "@supabase/ssr": "0.7.0",
+    "@supabase/supabase-js": "2.76.1"
   },
   "devDependencies": {
     "@eslint/eslintrc": "^3.3.1",
