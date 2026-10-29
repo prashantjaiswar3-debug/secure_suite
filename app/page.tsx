@@ -17,7 +17,7 @@ export default function Home() {
         <h1>Security is not a feature.<br /><span>It’s the foundation.</span></h1>
         <p className="intro">A clean, modern starting point for Secure Suite. We’ll shape the application around your real workflow, with maintainability and security built in from day one.</p>
         <div className="hero-actions">
-          <a className="primary-button" href="#roadmap">Explore the foundation <span aria-hidden="true">↘</span></a>
+          <a className="primary-button" href="/login">Sign in or create account <span aria-hidden="true">↗</span></a>
           <span className="stack-note">Next.js · TypeScript · PostgreSQL-ready</span>
         </div>
         <div className="hero-art" aria-hidden="true">
